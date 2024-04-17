@@ -13,7 +13,8 @@ import { expressiveCodeOptions } from "./src/site.config";
 // https://astro.build/config
 export default defineConfig({
 	// ! Please remember to replace the following site property with your own domain
-	site: "https://hit360d.github.io/cgpsc/",
+	site: "https://hit360d.github.io",
+	base: "cgpsc",
 	markdown: {
 		remarkPlugins: [remarkUnwrapImages, remarkReadingTime],
 		rehypePlugins: [
