@@ -31,15 +31,15 @@ export const siteConfig: SiteConfig = {
 export const menuLinks: Array<{ title: string; path: string }> = [
 	{
 		title: "Home",
-		path: "/",
+		path: `${import.meta.env.BASE_URL}/`,
 	},
 	{
 		title: "About",
-		path: "/about/",
+		path: `${import.meta.env.BASE_URL}/about/`,
 	},
 	{
 		title: "Blog",
-		path: "/posts/",
+		path: `${import.meta.env.BASE_URL}/posts/`,
 	},
 ];
 
