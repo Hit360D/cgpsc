@@ -8,3 +8,11 @@ coverImage:
   alt: "Pixel girl confused over merial."
 tags: ["material"]
 ---
+
+## The essentials
+
+Beginner or a veteran, these study materials are time tested and recommended by toppers as essential materials. However, choose what suits you.
+
+- Chhattisgarh General Studies by Hariram Publications [Available in English and Hindi]
+
+- Chhattisgarh Economic Survey summary by E Pathshala
