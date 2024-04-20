@@ -45,6 +45,10 @@ You can choose either or both of the following question banks for CG GS. Objecti
 
 - Hariram Publication's Chhattisgarh objective question bank [Focused more on newer questions as compared to Pratiyogita Saransh]
 
+For India GS question banks covering All India exams are superior. I recommend the following.
+
+- Ghatnachakra objective question banks [Available in both English and Hindi][Separate question bank for every subject covered in Prelims]
+
 ### Previous Year Papers
 
 You need previous year papers for your analysis. You can refer either directly to the original question papers [time consuming] or get the following that magically appeared in the market recently.
