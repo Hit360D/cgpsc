@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hit360d.github.io/cgpsc/sitemap-0.xml
+Sitemap: https://hit360d.github.io/cgpsc/sitemap-index.xml
