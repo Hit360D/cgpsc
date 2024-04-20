@@ -2,7 +2,7 @@
 title: "Study Material"
 description: "This post is about essential study materials to get you going."
 publishDate: "18 April 2024"
-updatedDate: "19 April 2024"
+updatedDate: "20 April 2024"
 coverImage:
   src: "./study-material.png"
   alt: "Pixel girl confused over material."
@@ -19,7 +19,7 @@ The following cover the Chhattisgarh General Studies portion for Prelims [and mo
 
 - Chhattisgarh General Studies by Hariram Publications [Available in English and Hindi]
 
-- Chhattisgarh Economic Survey summary by E Pathshala
+- Chhattisgarh Economic Survey summary by E Pathshala [Only in Hindi][Check if any decent English compilation is available]
 
 - Vinay Kumar Pathak's Hindi & Chhattisgarhi [Both are separate books]
 
@@ -34,3 +34,19 @@ These are my recommendations.
 - Barnwal for Indian Geography
 
 - Old NCERTs for Indian History
+
+### Practice
+
+You should be solving topic wise questions given the repetition is significant.
+
+You can choose either or both of the following question banks for CG GS. Objective question banks for CG GS are only available in Hindi as of now.
+
+- Tuteja Tutorial's Pratiyogita Saransh Chhattisgarh objective question bank [Available for India GS as well but I recommend better resources]
+
+- Hariram Publication's Chhattisgarh objective question bank [Focused more on newer questions as compared to Pratiyogita Saransh]
+
+### Previous Year Papers
+
+You need previous year papers for your analysis. You can refer either directly to the original question papers [time consuming] or get the following that magically appeared in the market recently.
+
+- Arihant publication's CGPSC Preliminary Examination Yearwise-Topicwise solved papers [Available in both English & Hindi]
