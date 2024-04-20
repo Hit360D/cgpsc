@@ -3,7 +3,7 @@
 title: "The Digital Way: Current Affairs"
 description: "This post is about current affairs from CGPSC perspective."
 publishDate: "19 April 2024"
-updatedDate: "19 April 2024"
+updatedDate: "20 April 2024"
 coverImage:
   src: "./current-affairs.png"
   alt: "Pixel girl reading news paper."
@@ -76,3 +76,28 @@ Optionally you may add Page Breaks after each Topic or Paper according to the ae
 
 You can click anywhere on the Index and reload to populate it.
 ![Index reload](./ss2.png)
+
+## Populating the Doc
+You really want to format your Doc for readablity.
+
+- You can use bulleted lists
+1. Or numbered lists
+
+Or a mix of both, or any other formatting you please. The following is how I like to format mine.
+![Formatted content](./ss3.png)
+
+- '-->' Changes to → by default.
+![Arrow](./arrow.gif)
+
+- Hitting Tab nests lists.
+![Nested list](./nest.gif)
+
+To make taking notes efficient, refer to the Cheat Sheet of keyboard commands.
+
+## Cheat Sheet
+| Windows              | Mac                  | Actions           |
+|----------------------|----------------------|-------------------|
+| `Ctrl + Shift + 7`   | `⌘ + Shift + 7`      | Numbered list     |
+| `Ctrl + Shift + 8`   | `⌘ + Shift + 8`      | Bulleted list     |
+| `Ctrl + Alt + 0`     | `⌘ + Option + 0`     | Normal text style |
+| `Ctrl + Alt + [1-6]` | `⌘ + Option + [1-6]` | Heading style     |
