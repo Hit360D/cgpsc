@@ -94,6 +94,9 @@ Or a mix of both, or any other formatting you please. The following is how I lik
 
 To make taking notes efficient, refer to the Cheat Sheet of keyboard commands.
 
+The resulting Doc might look similar to mine.
+![My Doc](./screenshot.png)
+
 ## Cheat Sheet
 | Windows              | Mac                  | Actions           |
 |----------------------|----------------------|-------------------|
