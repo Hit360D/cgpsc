@@ -3,7 +3,7 @@ title: "Topper Resources"
 description: "A curated list of toppers and sources of free study materials provided by them. In addition to these, other sources are listed."
 publishDate: "21 April 2024"
 updatedDate: "22 April 2024"
-tags: ["topper-resources", "resources", "telegram-channels", "youtube-channels"]
+tags: ["topper-resources", "resources", "study-material", "telegram-channels", "youtube-channels"]
 coverImage:
   src: "./topper-resources.png"
   alt: "Girl on her laptop taking notes."

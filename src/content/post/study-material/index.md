@@ -1,12 +1,12 @@
 ---
-title: "Study Material"
+title: "Book Recommendation"
 description: "This post is about essential study materials to get you going."
 publishDate: "18 April 2024"
 updatedDate: "21 April 2024"
 coverImage:
   src: "./study-material.png"
   alt: "Pixel girl confused over material."
-tags: ["material"]
+tags: ["study-material"]
 ---
 
 Let's get to the point, beginner or a veteran, these study materials are time tested and recommended by toppers as essential materials. However, choose what suits you.

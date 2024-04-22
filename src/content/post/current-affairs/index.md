@@ -7,7 +7,7 @@ updatedDate: "20 April 2024"
 coverImage:
   src: "./current-affairs.png"
   alt: "Pixel girl reading news paper."
-tags: ["current-affairs"]
+tags: ["current-affairs", "digital-current-affairs"]
 
 ---
 This writing is completely based on Neer Sir's [video guide](https://www.youtube.com/watch?v=QZUoyk9AMcM) on maintaining Google Docs for Current Affairs from Mains perspective.
