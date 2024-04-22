@@ -2,7 +2,7 @@
 title: "Study Material"
 description: "This post is about essential study materials to get you going."
 publishDate: "18 April 2024"
-updatedDate: "20 April 2024"
+updatedDate: "21 April 2024"
 coverImage:
   src: "./study-material.png"
   alt: "Pixel girl confused over material."
