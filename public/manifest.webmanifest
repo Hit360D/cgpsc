@@ -14,7 +14,7 @@
 			"type": "image/png"
 		}
 	],
-	"start_url": "https://hit360d.github.io/cgpsc/",
+	"start_url": "./cgpsc",
 	"background_color": "#1d1f21",
 	"theme_color": "#2bbc8a",
 	"display": "standalone"
