@@ -1,9 +1,9 @@
 ---
 title: "Topper Resources"
-description: "A curated list of toppers and sources of free study materials provided by them. In addition to these, other sources are listed."
+description: "A curated list of toppers and sources of free study materials and other CGPSC resources provided by them."
 publishDate: "21 April 2024"
 updatedDate: "22 April 2024"
-tags: ["topper-resources", "resources", "study-material", "telegram-channels", "youtube-channels"]
+tags: ["topper-resources", "resources", "study-material", "telegram-channels", "youtube-channels", "cgpsc-resources"]
 coverImage:
   src: "./topper-resources.png"
   alt: "Girl on her laptop taking notes."

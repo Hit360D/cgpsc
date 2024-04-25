@@ -7,7 +7,7 @@ export const siteConfig: SiteConfig = {
 	// Meta property used to construct the meta title property, found in src/components/BaseHead.astro L:11
 	title: "CGPSC Blog",
 	// Meta property used as the default description meta property
-	description: "A random CGPSC blog.",
+	description: "My personal blog for all CGPSC resources.",
 	// HTML lang property, found in src/layouts/Base.astro L:18
 	lang: "en-IN",
 	// Meta property, found in src/components/BaseHead.astro L:42

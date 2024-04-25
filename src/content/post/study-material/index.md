@@ -1,6 +1,6 @@
 ---
 title: "Book Recommendation"
-description: "This post is about essential study materials to get you going."
+description: "This post about CGPSC resources is regarding essential study materials to get you going."
 publishDate: "18 April 2024"
 updatedDate: "21 April 2024"
 coverImage:
